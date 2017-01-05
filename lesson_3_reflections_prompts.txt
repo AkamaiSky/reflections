@@ -21,7 +21,7 @@ stored locally?
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
 
-    Fill in your answer here
+    Talking directly with other developers. It would be harder, though, as GIT unabiguously highlights any issues between developer versions. It would also be much harder than GIT if there were more than 2 devs.
 
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
